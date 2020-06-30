@@ -152,7 +152,7 @@ $ travis branches показывает состояние веток
  ```
 $ travis history показывает историю
  #1 passed:       master added Travis CI
- 
+ ```
 Homework
 
 Создаем .travis.yml:
